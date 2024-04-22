@@ -1,0 +1,27 @@
+{
+    "name": "Ria.ru",
+    "short_name": "Ria.ru",
+    "background_color": "#FFFFFF",
+    "theme_color": "#0075FF",
+    "icons": [
+        {
+            "src": "https://cdn21.img.ria.ru/i/favicons/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://cdn21.img.ria.ru/i/favicons/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/?utm_source=pwa_screen",
+    "display": "standalone",
+    "gcm_sender_id": "759785258860",
+    "related_applications": [
+        {
+            "platform": "webapp",
+            "url": "https://ria.ru/i/favicons/manifestpwa.json"
+        }
+    ]
+}
